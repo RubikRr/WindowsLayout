@@ -16,3 +16,6 @@ D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\
 D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\net5.0-windows\WindowsLayout.pdb
 D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\net5.0-windows\WindowsLayout.genruntimeconfig.cache
 D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\net5.0-windows\ref\WindowsLayout.dll
+D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\net5.0-windows\WindowsLayout.Properties.Resources.resources
+D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\bin\Debug\net5.0-windows\CsvHelper.dll
+D:\c#\Летняя практика\Pumba\WindowsLayout\WindowsLayout\obj\Debug\net5.0-windows\WindowsLayout.csproj.CopyComplete

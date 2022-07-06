@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Rzrc25iIbdG1t+ELOoyimqFYEBeYefIghoidDyE4i3EO0Z+u2y7Emu/t7+r1YKx7Kpu/f1O3LKHjfK6MXp2FRA==",
+  "dgSpecHash": "RXBZkuHw0E94INO3iMG+dKYMyQ6jdvEQT3n+7d3s5xy5j1Es52+NHas8tRpKVj3lDQ4v1nUIoXLusAxO72NLVg==",
   "success": true,
   "projectFilePath": "D:\\c#\\Летняя практика\\Pumba\\WindowsLayout\\WindowsLayout\\WindowsLayout.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vovac\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

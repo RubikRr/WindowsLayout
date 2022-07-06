@@ -123,7 +123,7 @@ namespace WindowsLayout
 
             }
 
-            index++;
+            
             NextPicture();
 
         }
@@ -146,7 +146,7 @@ namespace WindowsLayout
                 }
 
             }
-            index++;
+         
             NextPicture();
 
         }
